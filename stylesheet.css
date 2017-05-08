@@ -1,0 +1,18 @@
+body{
+	background-color:black;
+}
+
+.jumbotron{
+    background-color:black;
+}
+
+h1{
+   color: rgb(174,18,0);
+   font-family: FreeMono, monospace;
+}
+
+p{
+	
+color: rgb(174,18,0);
+font-family: FreeMono, monospace;
+}
