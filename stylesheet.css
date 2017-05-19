@@ -16,3 +16,69 @@ p{
 color: rgb(174,18,0);
 font-family: FreeMono, monospace;
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:rgb(174,18,0) ;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color:white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	font-size:20px;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+h3{
+    color:white;
+    font-size:35px;
+    font-family: FreeMono, monospace;
+}
+
+h4{
+    color:white;
+   font-family: 'Special Elite', cursive;
+    font-size:"30px"
+}
+
+h5{
+    color:white;
+    font-size:30px;
+}
+
+a{
+    font-size:20px;
+}
+
+h6,h8{
+   color:white;
+   font-family: 'Special Elite', cursive;
+    font-size:23px;
+    padding: 70px 0;
+}
+
+h7{
+  color:white;
+   font-family: 'Special Elite', cursive;
+    font-size:20px;  
+}
+
+h9{
+ color:white;
+   font-family: 'Special Elite', cursive;
+    font-size:20px;   
+}
